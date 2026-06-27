@@ -7,6 +7,8 @@
 
 ![asciicast](docs/brht.gif)
 
+<p align="center">GIF (might take time to load)</p>
+
 BRHT looks like every "I'm in" hacker scene you've ever seen in a movie: green text,
 scrolling logs, a dozen progress bars, a suspiciously confident AI. Except every
 single thing on screen is procedurally generated nonsense, remixed with skibidi,
