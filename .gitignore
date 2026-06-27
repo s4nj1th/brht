@@ -1,0 +1,14 @@
+# Go (CLI)
+/dist/
+/brht
+brht-*
+*.test
+*.out
+
+# GoReleaser
+/dist
+
+.DS_Store
+*.swp
+.idea/
+.vscode/
